@@ -1,0 +1,51 @@
+P
+{
+}
+H1
+{
+    COLOR: darkblue;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 30px;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold
+}
+H2
+{
+}
+H3
+{
+}
+A
+{
+}
+A:visited
+{
+}
+A:active
+{
+}
+A:hover
+{
+}
+BODY
+{
+}
+.regtext
+{
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold
+}
+TABLE
+{
+    BACKGROUND-COLOR: deepskyblue;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt
+}
+.titles
+{
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 20pt
+}
